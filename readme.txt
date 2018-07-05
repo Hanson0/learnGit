@@ -1,5 +1,3 @@
 Git is a version control system.
 Git is a free software.
-low
-dddd
-h
+Git is a good tool.
