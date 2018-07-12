@@ -6,3 +6,4 @@ github test
 fist push -u origin master
 see you agin
 creating a new branch is quick AND simple
+branch dev
