@@ -6,7 +6,5 @@ github test
 fist push -u origin master
 see you agin
 creating a new branch is quick AND simple
-test:merge --no--ff -m "" dev
-test:stash
-
-fix issue-102
+test:merge --no-ff -m "" dev
+git stash apply stash@ 0
