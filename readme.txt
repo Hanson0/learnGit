@@ -7,3 +7,4 @@ fist push -u origin master
 see you agin
 creating a new branch is quick AND simple
 test:merge --no-ff -m "" dev
+git stash apply stash@ 0
